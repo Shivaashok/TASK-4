@@ -1,0 +1,10 @@
+# Git Tag Documentation
+
+Tag: v1.0
+Message: Initial version of the DevOps Git project.
+Includes:
+- README.md
+- Branch structure
+- .gitignore
+- TASKS.md
+- dummy_script.sh
